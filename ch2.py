@@ -36,16 +36,6 @@ dob = st.date_input("Select your Data of Birth")
 st.write(f"Your Data of Birth is {dob}")
 
 
-
-
-
-
-
-
-
-
-
-
 if st.button("Make Chain"):
     st.success("Your Chai is Ready")
 
